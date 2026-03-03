@@ -31,11 +31,17 @@ _Time spent: 1.0h_
 I have choosen `STM32H743VIT6` as the main MCU for my FC as STM32H7 is basically the gold standard in modern UAVs. 
 
 > **Sensors**
+> 
 > IMU - `BMI088`
+> 
 > Barometer - `BMP390`
+> 
 > Compass - `BMM350`
+> 
 > Buck Converter - `MP1584EN`
+> 
 > LDO - `AP2112K`
+> 
 > Power connector - `USB-C`
 
 Basic mandetory sensors are done, Now it's time for the hardest process of calculation to add resistor and capacitors. 
